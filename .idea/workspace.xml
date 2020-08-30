@@ -1,7 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b1ee02f-b26c-44c9-b58a-a3599d70dfa7" name="Default Changelist" comment="" />
+    <list default="true" id="2b1ee02f-b26c-44c9-b58a-a3599d70dfa7" name="Default Changelist" comment="update HW.24.08_pt2">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/function.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read.php" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,20 +41,26 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="tsconfig.json" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpDebugGeneral" listening_started="true" />
   <component name="ProjectId" id="1gXNe4ixSUA8M0Hh3Bl5ZBvXj1R" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HW_24.08-censored-" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -35,8 +68,12 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="2b1ee02f-b26c-44c9-b58a-a3599d70dfa7" name="Default Changelist" comment="" />
@@ -45,21 +82,56 @@
       <option name="presentableId" value="Default" />
       <updated>1598257069291</updated>
       <workItem from="1598257070643" duration="14448000" />
-      <workItem from="1598347562544" duration="4022000" />
+      <workItem from="1598347562544" duration="4736000" />
+      <workItem from="1598430077760" duration="1215000" />
+      <workItem from="1598774310103" duration="5281000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="update HW.24.08_pt2" />
+    <option name="LAST_COMMIT_MESSAGE" value="update HW.24.08_pt2" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="201" y="303" width="592" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598775783380">
+      <screen x="46" y="27" width="912" height="949" />
+    </state>
+    <state x="201" y="303" width="592" height="403" key="#com.intellij.fileTypes.FileTypeChooser/46.27.912.949@46.27.912.949" timestamp="1598775783380" />
+    <state x="270" y="239" width="424" height="520" key="FileChooserDialogImpl" timestamp="1598433992561">
+      <screen x="46" y="27" width="912" height="949" />
+    </state>
+    <state x="261" y="231" width="424" height="520" key="FileChooserDialogImpl/46.27.875.914@46.27.875.914" timestamp="1598351446488" />
+    <state x="270" y="239" key="FileChooserDialogImpl/46.27.912.949@46.27.912.949" timestamp="1598433992561" />
+    <state x="338" y="384" width="291" height="207" key="Github.ShareDialog" timestamp="1598351592612">
+      <screen x="46" y="27" width="875" height="914" />
+    </state>
+    <state x="338" y="384" width="291" height="207" key="Github.ShareDialog/46.27.875.914@46.27.875.914" timestamp="1598351592612" />
     <state x="297" y="427" width="399" height="156" key="NewPhpFileDialog" timestamp="1598260755225">
       <screen x="46" y="27" width="912" height="949" />
     </state>
     <state x="297" y="427" width="399" height="156" key="NewPhpFileDialog/46.27.912.949@46.27.912.949" timestamp="1598260755225" />
+    <state x="316" y="278" width="324" height="419" key="svn.repositoryBrowser" timestamp="1598351459899">
+      <screen x="46" y="27" width="875" height="914" />
+    </state>
+    <state x="316" y="278" width="324" height="419" key="svn.repositoryBrowser/46.27.875.914@46.27.875.914" timestamp="1598351459899" />
+    <state x="232" y="255" width="483" height="472" key="svn4idea.import.options" timestamp="1598351454168">
+      <screen x="46" y="27" width="875" height="914" />
+    </state>
+    <state x="232" y="255" width="483" height="472" key="svn4idea.import.options/46.27.875.914@46.27.875.914" timestamp="1598351454168" />
   </component>
 </project>
